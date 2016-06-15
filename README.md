@@ -29,6 +29,12 @@ Tracker.setup(getApplicationContext())
 .setAlarmType(Tracker.ALARM_TYPE_NOTIFICATION | Tracker.ALARM_TYPE_ACTIVITY);
 ```
 
+### Maven Repository
+
+```java
+compile ‘com.kmshack.library:android-exception-tracker:1.0.2’  
+```
+
 ### Version
 1.0.0
 
