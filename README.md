@@ -35,8 +35,7 @@ Tracker.setup(getApplicationContext())
 compile ‘com.kmshack.library:android-exception-tracker:1.0.2’  
 ```
 
-[ ![Download](https://api.bintray.com/packages/kmshack/maven/android-topscroll-helper/images/download.svg) ](https://bintray.com/kmshack/maven/android-topscroll-helper/_latestVersion)
-
+[ ![Download](https://api.bintray.com/packages/kmshack/maven/android-exception-tracker/images/download.svg) ](https://bintray.com/kmshack/maven/android-exception-tracker/_latestVersion)
 
 ### Version
 1.0.2
