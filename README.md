@@ -29,11 +29,14 @@ Tracker.setup(getApplicationContext())
 .setAlarmType(Tracker.ALARM_TYPE_NOTIFICATION | Tracker.ALARM_TYPE_ACTIVITY);
 ```
 
-### Maven Repository
+### Gradle
 
 ```java
 compile ‘com.kmshack.library:android-exception-tracker:1.0.2’  
 ```
+
+[ ![Download](https://api.bintray.com/packages/kmshack/maven/android-topscroll-helper/images/download.svg) ](https://bintray.com/kmshack/maven/android-topscroll-helper/_latestVersion)
+
 
 ### Version
 1.0.2
